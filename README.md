@@ -1,1 +1,3 @@
-# mapbox
+# Experiments with Mapbox
+
+Author: Ryan Steed
