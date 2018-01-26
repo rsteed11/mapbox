@@ -1,0 +1,35 @@
+.bg-color{
+  background-color: #b19cd9;
+}
+
+body{
+  color: #FEFEFE;
+  display: grid;
+  font-family: 'Lato', sans-serif;
+  font-size: 125%;
+  height: 120vh;
+}
+
+
+a{
+ color: #FEFEFE;
+ text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.title{
+  font-weight: 900;
+}
+
+.summary{
+  margin-top: 50px;
+  text-align: center;
+  max-width: 60%;
+}
+
+footer{
+  text-align: center;
+}
